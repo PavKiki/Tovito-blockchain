@@ -1,0 +1,3 @@
+[submodule "eosio"]
+	path = eosio
+	url = https://github.com/PavKiki/Tovito-marketplace.git
